@@ -20,3 +20,7 @@ Important:
 
     Replace YOUR_FINNHUB_API_KEY and YOUR_OPENAI_API_KEY with your actual API keys. Adjust the tickers and logic based on your specific requirements for better accuracy.
 
+Disclaimer of Liability:
+
+By using this open-source code, you acknowledge and agree that the author and contributors shall not be held liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use this code. This includes, but is not limited to, damages related to loss of data, financial loss, or any other type of loss that may occur, even if advised of the possibility of such damages. Use this code at your own risk, and it is your responsibility to ensure that it is suitable for your specific needs and environment.
+
